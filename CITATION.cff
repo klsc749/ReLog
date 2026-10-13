@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this code or these datasets, please cite the paper."
+type: software
+license: MIT
+title: "ReLog"
+repository-code: "https://github.com/klsc749/ReLog"
+authors:
+  - family-names: Wang
+    given-names: Xin
+  - family-names: Feng
+    given-names: Yang
+  - family-names: Jiao
+    given-names: Xiaoqian
+  - family-names: Zhang
+    given-names: Yang
+  - family-names: Li
+    given-names: Zhenhao
+  - family-names: Ding
+    given-names: Zishuo
+preferred-citation:
+  type: article
+  title: "ReLog: Execution-Aware Logging with Runtime Feedback for LLM-Oriented Debugging"
+  authors:
+    - family-names: Wang
+      given-names: Xin
+    - family-names: Feng
+      given-names: Yang
+    - family-names: Jiao
+      given-names: Xiaoqian
+    - family-names: Zhang
+      given-names: Yang
+    - family-names: Li
+      given-names: Zhenhao
+    - family-names: Ding
+      given-names: Zishuo
+  journal: "arXiv"
+  year: 2026
+  doi: "10.48550/arXiv.2603.29122"
+  url: "https://arxiv.org/abs/2603.29122"

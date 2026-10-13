@@ -1,0 +1,13 @@
+# Local environments, credentials, and generated artifacts
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+.ruff_cache/
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+/results/
+/relog/config/llm_config.local.json

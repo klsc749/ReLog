@@ -1,0 +1,12 @@
+[project]
+name = "relog-d4j-executor"
+version = "0.1.0"
+description = "Execution backend for Defects4J-based logging experiments"
+requires-python = ">=3.12"
+dependencies = [
+    "tree-sitter>=0.25.2",
+    "tree-sitter-java>=0.23.5",
+]
+
+[project.scripts]
+d4j-executor-run = "d4j_executor.run:main"
